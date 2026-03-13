@@ -8,7 +8,7 @@ import {
 } from "react";
 import toast, { Toaster } from "react-hot-toast";
 
-const server = "http://localhost:5000";
+const server = "http://56.228.13.181:5000";
 
 export interface User {
   _id: string;

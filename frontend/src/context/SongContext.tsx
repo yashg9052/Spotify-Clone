@@ -7,7 +7,7 @@ import {
   type ReactNode,
   useCallback,
 } from "react";
-const server = "http://localhost:8000";
+const server = "http://56.228.13.181:8000";
 
 export interface Song {
   id: string;
